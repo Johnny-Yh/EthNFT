@@ -1,0 +1,10 @@
+{
+    "network": "localhost",
+    "block": 312,
+    "timestamp": "2021-11-5 1:37:32",
+    "DigitalSource": "0x0c626FC4A447b01554518550e30600136864640B",
+    "ArtGeeNft": "0xA21DDc1f17dF41589BC6A5209292AED2dF61Cc94",
+    "EnglishAuction": "0x158d291D8b47F056751cfF47d1eEcd19FDF9B6f8",
+    "FixedAuction": "0x2F54D1563963fC04770E85AF819c89Dc807f6a06",
+    "TestNft": "0xa4E00CB342B36eC9fDc4B50b3d527c3643D4C49e"
+}
